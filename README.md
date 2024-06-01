@@ -2,6 +2,8 @@
 
 FTP Service Scheduler (FSS) is a web-based application designed to automate the scheduling of FTP jobs. Initially developed for the Business Intelligence team, FSS helps streamline and automate ETL (Extract, Transform, Load) processes by managing file transfers efficiently.
 
+NOTE: This is a placeholder application which I use to demo a CI/CD pipeline. It may be one day completed but at this moment its sole purpose is to show continuous testing, building and deployments with no real functionality.
+
 ## Features
 
 - Schedule and automate FTP jobs
